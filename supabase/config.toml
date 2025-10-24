@@ -1,0 +1,13 @@
+project_id = "xneoovjmwhzzphwlwojc"
+
+[functions.bulk-migrate-tpos-images]
+verify_jwt = false
+
+[functions.fetch-facebook-orders]
+verify_jwt = false
+
+[functions.fetch-tpos-products]
+verify_jwt = false
+
+[functions.refresh-tpos-token]
+verify_jwt = false
